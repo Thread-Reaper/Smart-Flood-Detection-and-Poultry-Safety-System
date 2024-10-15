@@ -8,8 +8,8 @@ This repository contains the code and documentation for the Smart Flood Detectio
 - **Alarm System**: Activates an alarm to alert farm staff when water levels exceed safe limits.
 - **Arduino Integration**: Built on an Arduino platform for effective control and automation.
 
-## Installation and Usage:
-Instructions for setting up the system and running the code can be found in the documentation folder.
+## Usage:
+The Arduino code for the project can be found [here](link_to_code_folder).
 
 ## Demo Video:
 A demonstration video of the system in action can be found [here](https://drive.google.com/file/d/1r7pJ-KUaV07I00X527TeDbjZyYb3p3jq/view?usp=drivesdk).
